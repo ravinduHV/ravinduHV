@@ -5,7 +5,7 @@
 
 >I'm a Computer Engineering undergraduate with a strong passion for software development, embedded systems, and robotics. With experience in Python, C, C++, Java, MERN, Django, Flask, IoT, and Linux, I enjoy building scalable solutions that bridge the gap between hardware and software.
 
--🔹 Expertise: Software Development | Embedded Systems | IoT | Web Development
+.🔹 Expertise: Software Development | Embedded Systems | IoT | Web Development
 -🔹 Tech Stack: Python | C | C++ | Java | JavaScript | Django | Flask | FastAPI | MERN | MySQL | SQLite3 | Firebase
 -🔹 Tools & Platforms: Linux | Git | Kafka | Jira Automation | Arduino | Robotics | NetBeans | Gradle
 
