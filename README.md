@@ -3,15 +3,23 @@
 ### 🚀 Computer Engineering Undergraduate | Software & Embedded Systems Developer
 ##### Faculty of Engineering | University of Sri Jayewardenepura
 
->I'm a Computer Engineering undergraduate with a strong passion for software development, embedded systems, and robotics. With experience in Python, C, C++, Java, MERN, Django, Flask, IoT, and Linux, I enjoy building scalable solutions that bridge the gap between hardware and software.
+>I'm a **Computer Engineering undergraduate** with a strong passion for **software development, embedded systems, and robotics**. With experience in **Python, C, C++, Java, MERN, Django, Flask, IoT, and Linux**, I enjoy building scalable solutions that bridge the gap between hardware and software.  
 
-1. 🔹 Expertise: Software Development | Embedded Systems | IoT | Web Development
--🔹 Tech Stack: Python | C | C++ | Java | JavaScript | Django | Flask | FastAPI | MERN | MySQL | SQLite3 | Firebase
--🔹 Tools & Platforms: Linux | Git | Kafka | Jira Automation | Arduino | Robotics | NetBeans | Gradle
+### 🔹 Expertise  
+- Software Development  
+- Embedded Systems  
+- IoT  
+- Web Development  
 
-I thrive on solving complex problems and am always eager to explore new technologies.
+### 🔹 Tech Stack  
+- **Languages:** Python | C | C++ | Java | JavaScript  
+- **Frameworks & Tools:** Django | Flask | FastAPI | MERN | NetBeans | Gradle  
+- **Databases:** MySQL | SQLite3 | Firebase  
+- **Platforms & Tools:** Linux | Git | Kafka | Jira Automation | Arduino | Robotics  
 
-🚀 Open to collaborations and exciting projects!
+I thrive on solving complex problems and am always eager to explore new technologies.  
+
+🚀 **Open to collaborations and exciting projects!** 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduHV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ravinduHV&show_icons=true&locale=en">
